@@ -1,0 +1,20 @@
+.origin {
+	width:50%;
+	height:50%;
+	border:#0000FF 3px solid; 
+	float:left;
+}
+
+.result {
+	width:49%;
+	height:50%;
+	border:#FF0000 3px solid; 
+	float:left;
+}
+
+.animation {
+	width:99.4%;
+	height:50%;
+	border:#000000 3px solid; 
+	clear:both;
+}
